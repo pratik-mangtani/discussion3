@@ -1,0 +1,10 @@
+nav li{
+    border: 2px dashed black;
+    background-color: pink;
+    border-radius: 85px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    padding: 15px;
+    margin: 20px;
+    width:20%;
+    display: inline-block;
+}
